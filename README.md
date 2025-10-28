@@ -1,3 +1,3 @@
-# PLED: A deep learning pipeline for TMS neuronavigation and optimization based on local E-field
+# PLED: A Comprehensive Pipeline for Electric-Field-Guided Transcranial Magnetic Stimulation Targeting and Optimization
 
-The code will be released soon.
+The code will be released successively.
